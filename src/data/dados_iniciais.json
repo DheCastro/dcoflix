@@ -1,0 +1,197 @@
+{
+  "categorias": [
+    {
+      "titulo": "Negócios",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Ganhe dinheiro trabalhando em casa",
+        "url": "https://www.youtube.com/watch?v=kN4yaHln2gU"
+      },
+      "videos": [
+        {
+          "titulo": "Ganhe dinheiro trabalhando em casa",
+          "url": "https://www.youtube.com/watch?v=kN4yaHln2gU"
+        },
+        {
+          "titulo": "3 projetos para te inspirar",
+          "url": "https://www.youtube.com/watch?v=n3tMEOw9KGY"
+        },
+        {
+          "titulo": "5 passos para montar o seu negócio",
+          "url": "https://www.youtube.com/watch?v=O7cO6KT6Ass"
+        },
+        {
+          "titulo": "7 ideias de negócios online",
+          "url": "https://www.youtube.com/watch?v=o6RBVLGTj8M"
+        },
+        {
+          "titulo": "Geraldo Rufino - O catador de sonhos",
+          "url": "https://www.youtube.com/watch?v=nAbqlW4cNbw"
+        },
+        {
+          "titulo": "Como atrair mais clientes",
+          "url": "https://www.youtube.com/watch?v=O6HNtwcJ7Mo"
+        },
+        {
+          "titulo": "Eduque-se apesar da escola",
+          "url": "https://www.youtube.com/watch?v=PHJezR_oRpM"
+        },
+        {
+          "titulo": "Como definir seu público alvo",
+          "url": "https://www.youtube.com/watch?v=lESmzwXFpoo"
+        },
+        {
+          "titulo": "Como empreender do zero",
+          "url": "https://www.youtube.com/watch?v=y4w0NBCVD0M"
+        }        
+      ]
+    },
+    {
+      "titulo": "Investimentos",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "6 Coisas que você não deve perder seu tempo",
+        "url": "https://www.youtube.com/watch?v=TvLL4fGia9E"
+      },
+      "videos": [
+        {
+          "titulo": "6 Coisas que você não deve perder seu tempo",
+          "url": "https://www.youtube.com/watch?v=TvLL4fGia9E"
+        },
+        {
+          "titulo": "Nubank x Banco Inter x Tesouro SELIC",
+          "url": "https://www.youtube.com/watch?v=WSLnk2dK_Mg"
+        },
+        {
+          "titulo": "Alugar é melhor que financiar?",
+          "url": "https://www.youtube.com/watch?v=_mR2FW1oB-I"
+        },
+        {
+          "titulo": "Quanto é preciso investido para ganhar mil reais por mês?",
+          "url": "https://www.youtube.com/watch?v=D5BWgXo4lK0"
+        },
+        {
+          "titulo": "As 12 leis do dinheiro",
+          "url": "https://www.youtube.com/watch?v=qAlfutQakXE"
+        }, 
+        {
+          "titulo": "Hábitos milionários na quarentena",
+          "url": "https://www.youtube.com/watch?v=4LZIf9RH9v8"
+        }
+      ]
+    },
+    {
+      "titulo": "Desenvolvimento de Softwares",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Git e Github na Prática",
+        "url": "https://www.youtube.com/watch?v=2alg7MQ6_sI"
+      },
+      "videos": [
+        {
+          "titulo": "Git e Github na Prática",
+          "url": "https://www.youtube.com/watch?v=2alg7MQ6_sI"
+        },
+        {
+          "titulo": "Novidades do Java 14",
+          "url": "https://www.youtube.com/watch?v=EnFTT-ocE5w"
+        },
+        {
+          "titulo": "Devops - Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=iwf6kcvxeD4"
+        },
+        {
+          "titulo": "Containers e Docker",
+          "url": "https://www.youtube.com/watch?v=TR8zX1D6abU"
+        },
+        {
+          "titulo": "Flutter em 6 minutos - Tudo para começar",
+          "url": "https://www.youtube.com/watch?v=jbAh5R8CH_o"
+        },
+        {
+          "titulo": "Testando o Heroku",
+          "url": "https://www.youtube.com/watch?v=aKuVQw_1u-Y"
+        },
+        {
+          "titulo": "Comece com Angular 9",
+          "url": "https://www.youtube.com/watch?v=5vPaoV9SV5U&t=10s"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}

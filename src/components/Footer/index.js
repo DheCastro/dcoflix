@@ -15,7 +15,7 @@ function Footer() {
         </a>
       </p>
       <p>
-        E empolgantemente estudado por
+        E empolgantemente estudado/desenvolvido por
         {' '}
         <a href="http://www.dhecastro.com.br/" rel="noopener noreferrer" target="_blank">
           Dhellano de Castro Oliveira

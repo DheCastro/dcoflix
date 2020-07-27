@@ -10,8 +10,15 @@ function Footer() {
       <p>
         Orgulhosamente criado durante a
         {' '}
-        <a href="https://www.alura.com.br/">
+        <a href="https://www.alura.com.br/" rel="noopener noreferrer" target="_blank">
           Imersão React da Alura
+        </a>
+      </p>
+      <p>
+        E empolgantemente estudado por
+        {' '}
+        <a href="http://www.dhecastro.com.br/" rel="noopener noreferrer" target="_blank">
+          Dhellano de Castro Oliveira
         </a>
       </p>
     </FooterBase>

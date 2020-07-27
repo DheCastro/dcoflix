@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"A grande dúvida sobre o piso vinílico acaba por aqui! Nesse vídeo vc vai saber se o piso vinílico é lavável ou não,  se pode ser usado em comércio, cozinha, o custo x beneficio e como é feita a instalação comparando com laminado."}
       />
 
       <Carousel
